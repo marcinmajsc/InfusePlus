@@ -19,10 +19,10 @@
 "SkipByLongTapDesc" = "Długie naciśnięcie przycisków przewijania powoduje przejście do następnego/poprzedniego filmu";
 "LoopButton" = "Przycisk pętli";
 "LoopButtonDesc" = "Dodaje przycisk pętli do nakładki";
-"HorFlipButton" = "Horizontal flip";
-"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
-"VerFlipButton" = "Vertical flip";
-"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
+"HorFlipButton" = "Odbicie poziome";
+"HorFlipButtonDesc" = "Dodaje przycisk odbicia poziomego do nakładki";
+"VerFlipButton" = "Odbicie pionowe";
+"VerFlipButtonDesc" = "Dodaje przycisk odbicia pionowego do nakładki";
 "SkipButtons" = "Przyciski przewijania";
 "SkipButtonsDesc" = "Dodaje przyciski przejścia do następnego i poprzedniego filmu do nakładki";
 "HideRewindButtons" = "Ukryj przyciski przewijania";
